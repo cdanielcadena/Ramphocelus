@@ -2,8 +2,9 @@
 
 This repository contains the data and code employed for analyses presented in:
 
-    Morales-Rozo A, Tenorio EA, Carling MD & Cadena CD. 2017. Origin and cross-century dynamics of an avian hybrid zone. bioRxiv 
-    http://biorxiv.org/content/early/2017/04/11/012856
+    Morales-Rozo A, Tenorio EA, Carling MD & Cadena CD. 2017. 
+    Origin and cross-century dynamics of an avian hybrid zone. 
+    bioRxiv http://biorxiv.org/content/early/2017/04/11/012856
 
 # Data
 
