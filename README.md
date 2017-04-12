@@ -11,4 +11,4 @@ The file `Ramphocelus_data.csv` contains locality data as well as morphological 
 
 # Code
 
-We are currently working on an annotaded version of the R code we employed for analyses, which we will post here shortly.
+We are currently working on an annotated version of the R code we employed for analyses, which we will post here shortly.
